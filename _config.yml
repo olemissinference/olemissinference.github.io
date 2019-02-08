@@ -16,13 +16,13 @@
 title: Ole Miss Inference
 email: rwhender@go.olemiss.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We are a research group in the Department of Electrical Engineering
+  at the University of Mississippi. Led by Prof. Paul Goggans, we investigate
+  methods and applications for Bayesian inference.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "olemissinference.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: 
+github_username:  olemissinference
 
 # Build settings
 markdown: kramdown
